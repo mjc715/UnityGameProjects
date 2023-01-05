@@ -1,6 +1,6 @@
 Tank Survival is a game where waves of tanks will spawn around you leaving you to survive as long as possible while taking out as many tanks as possible.  
   
-Game installer : https://drive.google.com/file/d/1wrzTNu8NAgW0Lk9E-t6SWjis0LRb_3nI/view?usp=share_link  
+Game installer (64-bit Windows) : https://drive.google.com/file/d/1wrzTNu8NAgW0Lk9E-t6SWjis0LRb_3nI/view?usp=share_link  
   
 Assets used:  
 Absolutely Free Music  
